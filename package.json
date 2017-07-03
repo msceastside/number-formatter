@@ -1,0 +1,30 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/msceastside/number-formatter.git"
+  },
+  "keywords": [
+    "number",
+    "formatter"
+  ],
+  "author": "Michael Carpenter <msc.eastside@gmail.com> (http://www.michaelscarpenter.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msceastside/number-formatter/issues"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "homepage": "https://github.com/msceastside/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
